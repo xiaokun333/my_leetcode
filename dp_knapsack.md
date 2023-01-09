@@ -6,6 +6,6 @@
 - 倒叙遍历 j，iterate reverse j (knapsack), adding every item once
 - **Number of combinations**: dp[j] += dp[j-nums[i]] i 是物品，j是背包，先遍历物品，再遍历背包
 
-##knapsack w/o repitition
+## knapsack w/o repitition
 - 正序遍历 j, iterate j (knapsack) small to large, each item used multiple times
 - for (j = weight(), j M 

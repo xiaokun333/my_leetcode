@@ -9,3 +9,4 @@
 ## knapsack w/o repitition
 - 正序遍历 j, iterate j (knapsack) small to large, each item used multiple times
 - for (j = weight(), j M 
+- 如果先遍历物品，是combination {1, 5}， 如果先遍历背包，是permutation {1, 5} & {5, 1}
